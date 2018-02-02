@@ -1,9 +1,5 @@
 # 🕷️ 爬取拉勾网职位信息的爬虫！
 
-源代码：[https://github.com/nnngu/LagouSpider](https://github.com/nnngu/LagouSpider)
-
----
-
 ## 效果预览
 
 ![][7]
